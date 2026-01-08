@@ -13,3 +13,8 @@ variable "vm-name" {
   type = string
   default = "allen-vm1"
 }
+
+variable "novm" {
+  type = number
+   description = "number of vms to be created"
+}
