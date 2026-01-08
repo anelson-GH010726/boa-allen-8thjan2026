@@ -1,2 +1,2 @@
 vm-size = "t3.micro"
-vm-name = "allen-vm002" 
+vm-name = "allen-vmday3002" 
